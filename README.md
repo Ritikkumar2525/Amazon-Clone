@@ -1,1 +1,1 @@
-# instagram-frontpage-by-tailwind
+Amazon Clone
